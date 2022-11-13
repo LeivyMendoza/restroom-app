@@ -42,4 +42,4 @@ testem.log
 Thumbs.db
 
 # Dependecies
-../node_modules/
+../node_modules
